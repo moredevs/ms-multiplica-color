@@ -40,4 +40,4 @@ El path de la aplicacion es /api/vi/
 			metodos post color
 
 La ruta para el swagger documentacion es http://35.193.10.161:8080/swagger-ui.html o http://localhost:8080/swagger-ui.html en local.
-Adjunto estara la collection de postman para las pruebas (archivo json para importar en postman)
+Adjunto estara la collection de postman para las pruebas (archivo json para importar en postman) con el nombre : Multiplica_Talent_Color.postman_collection.json
